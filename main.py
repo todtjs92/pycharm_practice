@@ -15,12 +15,11 @@ def print_hi(name):
         s += i
         print(i)
 
+def git_version2():
+    print("This is the file Version2")
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
-
-/Users/class101/PycharmProjects/pythonProject1/main.py
-/Users/class101/Documents/workspace
